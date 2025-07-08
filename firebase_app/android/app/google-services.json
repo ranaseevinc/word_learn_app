@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "205361994737",
+    "firebase_url": "https://fir-app-82358-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-82358",
+    "storage_bucket": "fir-app-82358.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205361994737:android:a93397ab4e8cd81b004250",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfvC9sZUQaCKDsvEz0XPX0HZNqNsd-lLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
